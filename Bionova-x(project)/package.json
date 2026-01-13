@@ -1,0 +1,28 @@
+{
+  "name": "bionova-x-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for BioNova-X",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "d3": "7.8.5",
+    "d3-cloud": "1.2.7",
+    "lodash": "4.17.21",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.22.3",
+    "recharts": "2.12.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "@types/react": "^18.3.10",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "^5.6.3",
+    "vite": "^7.3.0"
+  }
+}
