@@ -90,7 +90,7 @@ Follow these instructions to set up the project locally.
 
 ## 🤝 Team Members
 
-* **[Name]** - [Role]
+* **[Dibakor]** - [Researcher/AI/ML]
 * **[Name]** - [Role]
 * **[Name]** - [Role]
 * **[Name]** - [Role]
